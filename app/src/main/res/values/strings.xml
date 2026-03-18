@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"> Quản Lý Nhà Thuốc</string>
+
+    <string name="menu_thuoc">Quản Lý Thuốc</string>
+    <string name="menu_ban_hang">Bán Hàng</string>
+    <string name="menu_ton_kho">Tồn Kho</string>
+    <string name="menu_doanh_thu">Doanh Thu</string>
+    <string name="menu_thong_ke">Thống Kê</string>
+    <string name="menu_chat_ai">Chat AI</string>
+</resources>
